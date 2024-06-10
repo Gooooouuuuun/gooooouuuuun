@@ -1,4 +1,8 @@
-## Hi there 👋
+# Introduction 😀
+안녕하세요! <br>
+계속해서 발전하는 **풀스택 개발자**를 꿈꾸는 이고운입니다. 👋 <br>
+끊임없는 **학습과 기술 습득**으로 유연하고 다재다능함을 갖춘 개발자가 되겠습니다. 👋
+##### 한국소프트웨어인재개발원에서 **빅데이터분석 서비스 구현을 위한 JAVA/Python 풀스택 전문가 양성 과정** 수료 👋
 
 #### Language Level
 ![C](https://img.shields.io/badge/-C-123456?style-flat-square&logo=C&logoColor=black)
